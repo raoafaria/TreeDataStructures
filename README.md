@@ -68,7 +68,7 @@ Inorder Traversal: Print the current tree contents (in sorted order)
 
 Back: Return to tree selection menu
 
-### 📎 Notes
+###  Notes
 The AVL Tree implementation includes full height tracking and rebalancing logic.
 
 The Red-Black Tree is simplified to use Python’s built-in set for demonstrating interface and logic.
